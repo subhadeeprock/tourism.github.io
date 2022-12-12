@@ -1,0 +1,69 @@
+.night
+{
+    margin-left: 20%;
+    font-size: 20px;
+    color: darkgray;
+}
+.day
+{
+    margin-left: 30%;
+}
+.fu
+{
+    margin-left: 12%;
+    margin-top: 10%;
+}
+.fu2
+{
+    margin-left: 15%;
+    
+}
+.fu3
+{
+    margin-left: 19%;
+    
+}
+.le
+{
+    margin-left: 22%;
+    
+}
+.lee
+{
+    margin-left: 28%;
+    
+}
+.su13
+{
+    height: 168px;
+    margin-left: 20%;
+}
+.su14
+{
+    height: 168px;
+    margin-left: 0%;
+}
+.su15
+{
+    height: 168px;
+    width: 243px;
+    margin-left: 40%;
+}
+.su16
+{
+    height: 168px;
+    width: 243px;
+    
+}
+ .upcoming
+{
+    /* margin-left: 40%; */
+    text-align: left;
+   
+} 
+.up
+{
+    border: 1px solid black;
+    width: 40%;
+    margin-right: 100%;
+}

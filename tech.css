@@ -1,0 +1,75 @@
+body
+{
+    /* min-height: 0vh; */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    background-image: url("subhadeep154.jpeg");
+   
+    background-repeat: no-repeat;
+    background-size: 1024px 400px;
+    background-color: lightgray;
+  
+    
+} 
+.continer
+{
+    color: white;
+    text-align: right;
+    word-spacing: 38px;
+    
+}
+.take
+{
+    display: inline-block;
+    width: 80px;
+    background: darkorange;
+    word-spacing: normal;
+    border-radius: 7px 5px;
+    border-width: 60%;
+   
+    
+    
+    
+}
+.exploer
+{
+    color: #ffff;
+    margin-top: 13%;
+}
+hr
+{
+    width: 10%;
+}
+.event
+{
+    margin-top: 30%;
+    background-color: #ffff;
+    border-radius: 34px;
+}
+.pic
+{
+    width: 100%;
+    height: 400px;
+}
+.su12
+{
+    margin-left: 15%;
+    height: 168px;
+    padding: 0px;
+}
+.su156
+{
+    margin-left: 10%;
+}
+button
+{
+    width: 14%;
+    background-color: orangered;
+    color: #ffff;
+    border: none;
+    border-radius: 34px;
+    font-style: italic,bold;
+}
+/* body{
+    /* background-image: url("subhadeep167.jpeg"); */
